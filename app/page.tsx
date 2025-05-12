@@ -14,7 +14,7 @@ const apps = [
 ];
 
 export default function Home() {
-  const [hoveredIndex, setHoveredIndex] = useState(null);
+  const [hoveredIndex, setHoveredIndex] = useState<number | null>(null);
 
   const cardStyle = {
     backgroundColor: "#ffffff",
