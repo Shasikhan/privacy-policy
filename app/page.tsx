@@ -7,7 +7,7 @@ const apps = [
   {
     name: "Dear Diary",
     description: "Your personal diary secured with love.",
-    logo: "/dear-diary.png", // Place this in /public
+    logo: "dear-diary.png", // Place this in /public
     policyLink: "/dear-diary",
   },
   // Add more apps here in the future
