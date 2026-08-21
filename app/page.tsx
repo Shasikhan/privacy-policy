@@ -10,6 +10,13 @@ const apps = [
     logo: "dear-diary.png", // Place this in /public
     policyLink: "/dear-diary",
   },
+  {
+    name: "Amply",
+    description:
+      "Measure live charging current in mA. Find your fastest charger and cable.",
+    logo: "amply.png", // Place this in /public
+    policyLink: "/amply",
+  },
   // Add more apps here in the future
 ];
 
