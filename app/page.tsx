@@ -17,6 +17,13 @@ const apps = [
     logo: "amply.png", // Place this in /public
     policyLink: "/amply",
   },
+  {
+    name: "SmartScan: PDF Maker",
+    description:
+      "Android document scanner: capture paper documents with the camera, auto-detect edges, enhance, and export multi-page PDFs — with a full PDF toolbox (merge, split, compress, sign, protect, OCR).",
+    logo: "smartscan.png", // Place this in /public
+    policyLink: "/smartscan",
+  },
   // Add more apps here in the future
 ];
 
