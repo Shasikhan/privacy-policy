@@ -24,6 +24,13 @@ const apps = [
     logo: "smartscan.png", // Place this in /public
     policyLink: "/smartscan",
   },
+  {
+    name: "SpendWise",
+    description:
+      "Track expenses, income, accounts, and budgets offline, with optional Google Drive backup.",
+    logo: "spendwise.png",
+    policyLink: "/spendwise",
+  },
   // Add more apps here in the future
 ];
 
